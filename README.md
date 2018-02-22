@@ -25,3 +25,5 @@ Syntactic elements:
 | # | XOR operator
 | \ | OR operator
 | _ | Left shift operator
+
+Midas mode is licensed under the GPL v3, see COPYING.md.
